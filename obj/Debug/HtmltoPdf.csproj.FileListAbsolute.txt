@@ -1,0 +1,12 @@
+c:\users\windowscopy\documents\visual studio 2012\Projects\HtmltoPdf\HtmltoPdf\bin\Debug\HtmltoPdf.exe.config
+c:\users\windowscopy\documents\visual studio 2012\Projects\HtmltoPdf\HtmltoPdf\bin\Debug\HtmltoPdf.exe
+c:\users\windowscopy\documents\visual studio 2012\Projects\HtmltoPdf\HtmltoPdf\bin\Debug\HtmltoPdf.pdb
+c:\users\windowscopy\documents\visual studio 2012\Projects\HtmltoPdf\HtmltoPdf\obj\Debug\HtmltoPdf.exe
+c:\users\windowscopy\documents\visual studio 2012\Projects\HtmltoPdf\HtmltoPdf\obj\Debug\HtmltoPdf.pdb
+c:\users\windowscopy\documents\visual studio 2012\Projects\HtmltoPdf\HtmltoPdf\obj\Debug\HtmltoPdf.csprojResolveAssemblyReference.cache
+E:\Backup\Projects\HtmltoPdf\HtmltoPdf\bin\Debug\HtmltoPdf.exe.config
+E:\Backup\Projects\HtmltoPdf\HtmltoPdf\bin\Debug\HtmltoPdf.exe
+E:\Backup\Projects\HtmltoPdf\HtmltoPdf\bin\Debug\HtmltoPdf.pdb
+E:\Backup\Projects\HtmltoPdf\HtmltoPdf\obj\Debug\HtmltoPdf.csprojResolveAssemblyReference.cache
+E:\Backup\Projects\HtmltoPdf\HtmltoPdf\obj\Debug\HtmltoPdf.exe
+E:\Backup\Projects\HtmltoPdf\HtmltoPdf\obj\Debug\HtmltoPdf.pdb
